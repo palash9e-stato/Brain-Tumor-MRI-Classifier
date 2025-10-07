@@ -5,4 +5,5 @@ I was initially working on a medical chatbot, but due to time constraints during
 
 This repo includes the trained model, training notebook, and Gradio app to try predictions locally or deploy online.
 
-due to size issues i uploaded the model on drive - [https://drive.google.com/file/d/1AA5b5voWQLeJStYBjKVwtnrcsv5M4Qgi/view?usp=drive_link]
+due to size issues i uploaded the model on drive - 
+[model](https://drive.google.com/file/d/1AA5b5voWQLeJStYBjKVwtnrcsv5M4Qgi/view?usp=drive_link)
